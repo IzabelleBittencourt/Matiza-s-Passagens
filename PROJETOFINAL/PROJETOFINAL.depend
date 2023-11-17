@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1669073369 source:c:\users\izaah\onedrive\Área de trabalho\projetofinal\projetofinal\multiplicacao.c
+	"funcao.h"
+
+1669073204 c:\users\izaah\onedrive\Área de trabalho\projetofinal\projetofinal\funcao.h
+
+1669078468 source:c:\users\izaah\onedrive\Área de trabalho\projetofinal\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcao.h"
+

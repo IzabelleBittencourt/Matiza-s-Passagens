@@ -1,0 +1,29 @@
+
+
+Cidade de Origem: CRUZEIRO
+Cidade de Destino: APARECIDA 
+Quantidade de passagens: 3 
+Hora de Saida: 14:40 
+Hora de Chegada: 16:10 
+Total: 57.90
+
+Cidade de Origem: CRUZEIRO
+Cidade de Destino: TAUBATE 
+Quantidade de passagens: 2 
+Hora de Saida: 21:0 
+Hora de Chegada: 23:30 
+Total: 75.10
+
+Cidade de Origem: CRUZEIRO
+Cidade de Destino: LORENA 
+Quantidade de passagens: 3 
+Hora de Saida: 11:0 
+Hora de Chegada: 12:30 
+Total: 37.05
+
+Cidade de Origem: CRUZEIRO
+Cidade de Destino: SAO JOSE DOS CAMPOS 
+Quantidade de passagens: 9 
+Hora de Saida: 2000:0 
+Hora de Chegada: 2400:30 
+Total: 450.00
